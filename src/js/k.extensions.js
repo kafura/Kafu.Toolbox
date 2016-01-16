@@ -32,5 +32,14 @@
         // This is not the fastest way, but ok for many situations
         return this.slice(0);
     };
+
+    /**
+     * Checks if array contains value
+     * @param {?} it - Value to check if exists in array
+     * @returns {bool} True if found
+     */
+    window.Array.prototype.contains = function(it) {
+        return k.utils.contains(this, it);
+    }
 })(window);
 
