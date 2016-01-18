@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kafura/kafu.toolbox.svg?branch=master)](https://travis-ci.org/kafura/kafu.toolbox)
+
 # Kafu Toolbox for JS
 > This is a bunch of javascript methods and extensions that I use.
 
